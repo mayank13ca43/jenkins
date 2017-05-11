@@ -1,1 +1,4 @@
 date
+whoami
+df
+ls
